@@ -1,6 +1,9 @@
 # Dream Gripper
 
-The **Dream Gripper** is a hardware project at Dream Machines.
+The **Dream Gripper** is a hardware project at [Dream Machines](https://dream-machines.eu/).
+
+Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**.  
+[LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) · [X](https://x.com/sixtusklein)
 
 ## Design Goal
 
