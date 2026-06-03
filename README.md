@@ -12,14 +12,15 @@ The gripper was designed for use with a linear rail as a platform. Results with 
 
 The gripper is composed of three major components:
 
+
 - **Rigid PLA-CF backbone**  
-  '''(Hier die Links jeweils)'''
+  ['''(Hier die Links jeweils)'''](https://eu.store.bambulab.com/products/pla-cf)
 
 - **Soft TPU95A insert**  
-  '''(Hier die Links jeweils)'''
+  ['''(Hier die Links jeweils)'''](https://www.amazon.de/dp/B09KKZLZVR?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 - **Rubbery grip tape**  
-  '''(Hier die Links jeweils)'''
+  ['''(Hier die Links jeweils)'''](https://www.amazon.de/dp/B0FB8LQ29P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 <img width="400" alt="Robot setup" src="https://github.com/user-attachments/assets/0dc6d53d-df09-465b-8564-8f528a3da1f3" />
 
@@ -45,5 +46,4 @@ Leave enough material towards the inside of the gripper so that you can extend t
 
 ## Credits
 
-Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**.  
-[LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) · [X](https://x.com/sixtusklein)
+Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**. [LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) · [X](https://x.com/sixtusklein)
