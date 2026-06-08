@@ -20,7 +20,7 @@ The gripper is made up of three major components:
 |---|---|---|
 | [Rigid backbone](https://eu.store.bambulab.com/products/pla-cf) | PLA-CF | €26.99 |
 | [Soft insert](https://www.amazon.de/dp/B09KKZLZVR?ref=ppx_yo2ov_dt_b_fed_asin_title) | TPU95A | ~€30.00 |
-| [Grip tape](https://www.amazon.de/dp/B0FB8LQ29P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | — | €16.99 |
+| [Grip tape](https://www.amazon.de/dp/B0FB8LQ29P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | - | €16.99 |
 
 <img width="400" alt="Robot setup" src="https://github.com/user-attachments/assets/0dc6d53d-df09-465b-8564-8f528a3da1f3" />
 
@@ -43,7 +43,7 @@ The middle section uses a soft TPU insert that grips larger objects more firmly 
 1. Print the backbone in **PLA-CF** and the insert in **TPU95A**. The slots in the backbone should have enough tolerance to accept the TPU inserts; a tight fit is intended.
 2. Completely remove all supports from both parts.
 3. Press the TPU insert into the backbone slots.
-4. Lay the assembly gripping-side down on a strip of grip tape. Trace the outline onto the back of the tape and cut out the shape. Leave extra material toward the inside of the gripper so you can extend the grip tape over the TPU by a few centimetres on each side — otherwise the tape may loosen over time.
+4. Lay the assembly gripping-side down on a strip of grip tape. Trace the outline onto the back of the tape and cut out the shape. Leave extra material toward the inside of the gripper so you can extend the grip tape over the TPU by a few centimetres on each side, otherwise the tape may loosen over time.
 
 ## Credits
 
