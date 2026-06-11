@@ -22,11 +22,14 @@ uses less than EUR 1 of printed material.
 
 ## Files
 
-| File | Purpose |
-|---|---|
-| [Dream Gripper TRLC.f3d](3D-Files/Dream%20Gripper%20TRLC.f3d) | Fusion 360 source model |
-| [PLA-CF Backbone.stl](3D-Files/PLA-CF%20Backbone.stl) | Rigid printed backbone |
-| [TPU Insert.stl](3D-Files/TPU%20Insert.stl) | Soft printed insert |
+| File | Variant | Purpose |
+|---|---|---|
+| [Dream Gripper TRLC.f3d](3D-Files/Dream%20Gripper%20TRLC.f3d) | Regular | Fusion 360 source model |
+| [Dream Gripper TRLC Jumbo.f3d](3D-Files/Dream%20Gripper%20TRLC%20Jumbo.f3d) | Jumbo | Fusion 360 source model |
+| [PLA-CF Backbone.stl](3D-Files/PLA-CF%20Backbone.stl) | Regular | Rigid printed backbone |
+| [PLA-CF Backbone Jumbo.stl](3D-Files/PLA-CF%20Backbone%20Jumbo.stl) | Jumbo | Rigid printed backbone |
+| [TPU Insert.stl](3D-Files/TPU%20Insert.stl) | Regular | Soft printed insert |
+| [TPU Insert Jumbo.stl](3D-Files/TPU%20Insert%20Jumbo.stl) | Jumbo | Soft printed insert |
 
 ## Variants
 
@@ -95,3 +98,5 @@ TPU wraps the grip tape layer around the edges of the object.
 
 Built by **[Sixtus Klein](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true)**
 at **[Dream Machines](https://dream-machines.eu/)**.
+
+Jumbo modifications by **[Janne Stiefel](https://jannestiefel.com/)**.
