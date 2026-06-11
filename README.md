@@ -5,10 +5,10 @@
 </p>
 
 The Dream Gripper is a 3D-printable, open-source gripper for the DK1 arm from
-The Robot Learning Company. It is designed to pick up small objects such as
-O-rings while still holding larger objects such as mugs, using only standard
-3D-printing materials and grip tape. A single gripper uses less than EUR 1 of
-printed material.
+[The Robot Learning Company](https://www.robot-learning.co/). It is designed to
+pick up small objects such as O-rings while still holding larger objects such as
+mugs, using only standard 3D-printing materials and grip tape. A single gripper
+uses less than EUR 1 of printed material.
 
 ## Highlights
 
@@ -42,7 +42,7 @@ The design currently has two variations:
 <table>
   <tr>
     <td width="50%">
-      <img src="readme_images/top.jpeg" alt="Top view of the Dream Gripper">
+      <img src="readme_images/actuator.jpeg" alt="Dream Gripper actuator detail">
     </td>
     <td width="50%">
       <img src="readme_images/side.jpeg" alt="Side view of the Dream Gripper">
@@ -50,7 +50,7 @@ The design currently has two variations:
   </tr>
   <tr>
     <td width="50%">
-      <img src="readme_images/actuator.jpeg" alt="Dream Gripper actuator detail">
+      <img src="readme_images/top.jpeg" alt="Top view of the Dream Gripper">
     </td>
     <td width="50%">
       <img src="readme_images/o-ring.jpeg" alt="Dream Gripper picking up an O-ring">
@@ -60,11 +60,11 @@ The design currently has two variations:
 
 ## Materials
 
-| Component | Material | Example |
-|---|---|---|
-| Rigid backbone | PLA-CF | [Bambu Lab PLA-CF](https://eu.store.bambulab.com/products/pla-cf) |
-| Soft insert | TPU95A | [TPU95A filament](https://www.amazon.de/dp/B09KKZLZVR?ref=ppx_yo2ov_dt_b_fed_asin_title) |
-| Contact surface | Grip tape | [Grip tape](https://www.amazon.de/dp/B0FB8LQ29P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| Component | Material | Example | Price |
+|---|---|---|---|
+| Rigid backbone | PLA-CF | [Bambu Lab PLA-CF](https://eu.store.bambulab.com/products/pla-cf) | EUR 26.99 |
+| Soft insert | TPU95A | [TPU95A filament](https://www.amazon.de/dp/B09KKZLZVR?ref=ppx_yo2ov_dt_b_fed_asin_title) | ~EUR 30.00 |
+| Contact surface | Grip tape | [Grip tape](https://www.amazon.de/dp/B0FB8LQ29P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | EUR 16.99 |
 
 ## Design Notes
 
